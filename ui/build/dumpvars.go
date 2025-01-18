@@ -146,10 +146,9 @@ func dumpMakeVars(ctx Context, config Config, goals, vars []string, write_soong_
 // Variables to print out in the top banner
 var BannerVars = []string{
 	"ORION_BUILD_INFO",
-	"ORION_MOD_VERSION",
-	"ORION_ANDROID",
+	"ORION_VERSION",
 	"ORION_MAINTAINER",
-	"ORION_DEVICE",
+	"TARGET_DEVICE",
 	"PRODUCT_SOURCE_ROOT_DIRS",
 	"TARGET_BUILD_VARIANT",
         "BUILD_ID",
