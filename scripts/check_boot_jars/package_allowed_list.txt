@@ -273,6 +273,9 @@ org\.lineageos\.platform\.internal
 # LMODroid adds
 com\.libremobileos\..*
 
+# RefreshRate Manager Adds
+com.orion.display
+
 # NT adds
 com\.nothing
 com\.nothing\..*
